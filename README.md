@@ -99,7 +99,7 @@ I learn by building → breaking → fixing → understanding.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=noundane&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 
 <br><br>
 
